@@ -1,0 +1,22 @@
+#drum-machine {
+    height: 100px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  }
+
+  
+  #display {
+    box-shadow: inset 2px 2px 2px 2px black;
+    width: 9%;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-size: 1.2em;
+    font-family: 'Share Tech Mono', monospace;
+    background-color: white;
+    
+  }
+  
